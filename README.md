@@ -1,5 +1,5 @@
 # BGG-Best-Games-for-Player-Count
-a script for google sheets to import your ownd games form [Board Game Geek API](https://boardgamegeek.com/xmlapi2) and sort them by how good they play for a given Player Count
+a script for google sheets to import your owned games from [Board Game Geek API](https://boardgamegeek.com/xmlapi2) and sort them by how good they play for a given Player Count
 
 - no APi keys needed
 - only two API request no matter how many games you have
