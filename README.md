@@ -9,13 +9,13 @@ a script for google sheets to import your owned games from [Board Game Geek API]
 - **include Expansions** can be set to yes or no
 - **Player Count** allows any number of players
 - **Sort by** lets you sort the resulting games by the table headers(name, published, rating, playtime, weight)
-- **Sort all regardles of playability** can be set to yes or no, standard is no which shows you three seperate areas of playability as seen here:
+- **Sort all regardless of playability** can be set to yes or no, standard is no which shows you three separate areas of playability as seen here:
 
-![all settings shown in a screenshot, Sort all regardles of playability set to no](/Sort_all_regardles_of_playability-no.png "Sort all regardles of playability: no")
+![all settings shown in a screenshot, Sort all regardless of playability set to no](/Sort_all_regardless_of_playability-no.png "Sort all regardless of playability: no")
 
-if you set "**Sort all regardles of playability: yes**" it combines all the games for this player count in one list and sorts them like this:
+if you set "**Sort all regardless of playability: yes**" it combines all the games for this player count in one list and sorts them like this:
 
-![all settings shown in a screenshot, Sort all regardles of playability set to yes](/Sort_all_regardles_of_playability-yes.png "Sort all regardles of playability: yes")
+![all settings shown in a screenshot, Sort all regardless of playability set to yes](/Sort_all_regardless_of_playability-yes.png "Sort all regardless of playability: yes")
 
 "**Load Player Data**" also sorts the games by the currently assigned settings
 
